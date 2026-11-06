@@ -1,12 +1,12 @@
 ---
 name: yt-script
 description: >-
-  Write a YouTube video script from a raw idea - hook options off 21
-  formulas, scored, then the full spoken script with the retention beats
-  marked. Use whenever the user wants a video script, a hook, an opening
-  line, "what should I say", "write my next video", or is about to record
-  and does not have the first fifteen seconds yet.
----
+  Create original, universal, dialogue-free animated cartoon stories
+  for children worldwide. Tell stories entirely through visual
+  storytelling, character expressions, gestures, movements,
+  physical comedy, and sound effects. No spoken language,
+  no subtitles, and no language-specific jokes. Create clear
+  scene-by-scene visual actions that children everywhere can understand.
 
 # yt-script
 

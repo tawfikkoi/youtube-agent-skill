@@ -7,7 +7,7 @@ description: >-
   physical comedy, and sound effects. No spoken language,
   no subtitles, and no language-specific jokes. Create clear
   scene-by-scene visual actions that children everywhere can understand.
-
+---
 
 # yt-script
 

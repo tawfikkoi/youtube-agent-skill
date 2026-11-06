@@ -8,51 +8,47 @@ description: >-
   no subtitles, and no language-specific jokes. Create clear
   scene-by-scene visual actions that children everywhere can understand.
 
+
 # yt-script
 
-One idea into a script somebody finishes.
+Create original silent cartoon stories for children around the world.
 
-Two tools live in this folder and both actually run. Use them. Do not eyeball the hook.
+## Before creating
 
-```bash
-python3 hookscore.py hooks.txt              # rank your hook options
-python3 hookscore.py --hook "one line"      # score a single one
-```
+1. Create original stories that children everywhere can understand.
+2. Never use spoken dialogue or subtitles.
+3. Use facial expressions, gestures, movement, and visual comedy.
+4. Keep characters consistent in every scene.
+5. Make stories safe and suitable for children.
 
-## Before you write
+## Story structure
 
-1. Read `~/.claude/youtube/voice.md` if it exists. That is the user's voice profile: how they talk
-   on camera, the words they never use, who they are talking to, what they will not claim. If it
-   does not exist, ask for **three of their own videos**, read or transcribe them, infer the voice,
-   and write the file. A script in the wrong voice is worse than no script, because they have to
-   read it out loud.
-2. Never invent a number, a result or a source. If a figure would strengthen it and you do not have
-   one, ask for it or write the line without it.
+1. Visual hook: A surprising action in the first 3 seconds.
+2. Introduction: Show the characters and their goal.
+3. Problem: Introduce a simple visual problem.
+4. Adventure: Show funny attempts to solve it.
+5. Climax: Build toward a surprising moment.
+6. Ending: Resolve the problem with a funny or heartwarming scene.
 
-## The shape
+## Deliverables
 
-**The first 15 seconds is the whole job.** It does three things or the video leaks: confirm the
-click the title promised, open a question the viewer cannot close, and prove the payoff exists.
+- Original story idea and title.
+- Character descriptions.
+- Scene-by-scene storyboard.
+- Detailed visual actions.
+- Facial expressions and movements.
+- Camera angles and transitions.
+- Sound effects and music suggestions.
+- Estimated video duration.
+- Thumbnail concept.
+- AI animation prompts for every scene.
 
-1. **Hook.** Write FIVE against [the 21 formulas](hooks.json), run them through `hookscore.py`,
-   keep the top two, and show the user both with their scores. Never hand over one hook.
-2. **The turn** (0:15-0:45). Say what the video is going to do, in one sentence, and start doing it.
-   No channel intro, no "before we get started", no subscribe pitch. Those are the single most
-   common cause of the 0:30 cliff.
-3. **The body.** One idea per beat. Mark each beat with what is ON SCREEN, not just what is said -
-   a talking head with nothing to look at is a podcast.
-4. **The payoff.** Deliver the thing the hook promised, explicitly, and say that you are delivering
-   it: "that is the prompt, it is in the description".
-5. **The close.** One ask. Not three.
+## Global rules
 
-## What to hand back
-
-- the two best hooks with their scored panels
-- the script, beat by beat, with `[ON SCREEN: ...]` on every beat
-- the runtime estimate at 150 words per minute
-- one line naming which formula the winning hook used and why it fits this idea
-
-## The gate
-
-Nothing here publishes. This skill writes and you publish. Every output ends in a block the user
-copies, and the last line of every run is the question: **ship it, or change it?**
+- No spoken language.
+- No subtitles.
+- No copyrighted characters.
+- No copied stories.
+- No culturally specific jokes.
+- Use original characters and music.
+- Keep everything child-friendly.
